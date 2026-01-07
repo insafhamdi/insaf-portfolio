@@ -86,9 +86,9 @@ const App: React.FC = () => {
                 </a>
                 <div className="flex items-center gap-3">
                   {[
-                    { icon: <Linkedin size={20} />, href: "https://www.linkedin.com/in/insaf-hamdi/" },
-                    { icon: <Github size={20} />, href: "https://github.com/Insaf-Hamdi" },
-                    { icon: <Mail size={20} />, href: "mailto:insaf.hamdi@esprit.tn" }
+                    { icon: <Linkedin size={20} />, href: "https://www.linkedin.com/in/insaf-hamdi-806351251/" },
+                    { icon: <Github size={20} />, href: "https://github.com/insafhamdi" },
+                    { icon: <Mail size={20} />, href: "mailto:insaf.hamdi@essai.ucar.tn" }
                   ].map((social, i) => (
                     <a 
                       key={i} 
@@ -231,7 +231,7 @@ const App: React.FC = () => {
                   Presented "An Automatic Scoring Method for Responses to the Hayling Test". A fusion of neuropsychology and deep NLP, achieving a 21% acceptance rate.
                 </p>
                 <div className="flex flex-wrap gap-4 pt-4">
-                  <a href="https://lnkd.in/efggniR3" target="_blank" className="px-6 py-3 bg-brand-500 text-white rounded-xl font-bold flex items-center gap-2 hover:bg-brand-600 transition-all">
+                  <a href="https://hal.science/hal-05355459" target="_blank" className="px-6 py-3 bg-brand-500 text-white rounded-xl font-bold flex items-center gap-2 hover:bg-brand-600 transition-all">
                     Paper link <ExternalLink size={18} />
                   </a>
                 </div>
