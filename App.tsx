@@ -315,10 +315,10 @@ const App: React.FC = () => {
               Open to <span className="text-white font-semibold">PhD opportunities</span>, research collaborations, or engineering insights.
             </p>
             <div className="flex flex-col sm:flex-row gap-6 justify-center">
-              <a href="mailto:insaf.hamdi@esprit.tn" className="px-12 py-5 bg-brand-500 text-white rounded-2xl font-bold text-xl hover:bg-brand-600 transition-all flex items-center justify-center gap-3 shadow-2xl shadow-brand-500/20">
+              <a href="mailto:insaf.hamdi@essai.ucar.tn" className="px-12 py-5 bg-brand-500 text-white rounded-2xl font-bold text-xl hover:bg-brand-600 transition-all flex items-center justify-center gap-3 shadow-2xl shadow-brand-500/20">
                 <Mail size={24} /> Say Hello
               </a>
-              <a href="https://www.linkedin.com/in/insaf-hamdi/" target="_blank" className="px-12 py-5 glass text-white rounded-2xl font-bold text-xl border-white/10 hover:bg-slate-800 transition-all flex items-center justify-center gap-3">
+              <a href="https://www.linkedin.com/in/insaf-hamdi-806351251/" target="_blank" className="px-12 py-5 glass text-white rounded-2xl font-bold text-xl border-white/10 hover:bg-slate-800 transition-all flex items-center justify-center gap-3">
                 <Linkedin size={24} /> LinkedIn
               </a>
             </div>
